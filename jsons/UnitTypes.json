@@ -1,86 +1,86 @@
 [
     {
-        "name": "Pebbilian",
+        "name": "Pebbilian", //Civil
         "movementType": "Land"
     },
     {
-        "name": "Sharp Rock",
+        "name": "Sharp Rock", //melee
         "movementType": "Land"
     },
     {
-        "name": "Explosive Rock",
+        "name": "Explosive Rock", //Gunpowder
         "movementType": "Land"
     },
     {
-        "name": "Catapult Launched Boulder",
+        "name": "Throwable Sharp Rock", //Ranged 
         "movementType": "Land"
     },
     {
-        "name": "Throwable Explosive Rock",
+        "name": "Throwable Explosive Rock", //Gunpowder Ranged
         "movementType": "Land"
     },
     {
-        "name": "Bird-carried Pebble",
+        "name": "Bird-carried Pebble", //Scout
         "movementType": "Land"
     },
     {
-        "name": "Pebble On A Rat",
+        "name": "Pebble On A Rat", //Mounted
         "movementType": "Land"
     },
     {
-        "name": "Titanium Alloy",
+        "name": "Titanium Alloy", //Armor
         "movementType": "Land"
     },
     {
-        "name": "MassiveRollingPebbleThatWillDestroyCastles",
+        "name": "MassiveRollingPebbleThatWillDestroyCastles", //Siege
         "movementType": "Land",
         "civilopediaText": [
             { "text": "Siege units are extremely powerful against cities, but need to be Set Up before they can attack.\nOnce your siege unit is set up, it can attack from the current tile,\n  but once moved to another tile, it will need to be set up again." }
         ]
     },
     {
-        "name": "Pebbilian Water",
+        "name": "Pebbilian Water", //Yes
         "movementType": "Water"
     },
     {
-        "name": "Sharp Rock Water",
+        "name": "Sharp Rock Water", //Yes
         "movementType": "Water"
     },
     {
-        "name": "Throwable Sharp Rock Water",
+        "name": "Throwable Sharp Rock Water", 
         "movementType": "Water"
     },
     {
-        "name": "Tectonic Plate",
+        "name": "Tectonic Plate", //Submarine 
         "movementType": "Water",
         "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units"]
     },
     {
-        "name": "Thousand Rocks Carrier",
+        "name": "Thousand Rocks Carrier", //Aircraft Carrier 
         "movementType": "Water"
     },
     {
-        "name": "Flying Rock",
+        "name": "Flying Rock", //Fighter 
         "movementType": "Air",
         "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep"]
     },
     {
-        "name": "Flying Explosive Rock",
+        "name": "Flying Explosive Rock", //Bomber
         "movementType": "Air",
         "uniques": ["Aircraft"]
     },
     {
-        "name": "Uranium and Plutonium",
+        "name": "Uranium and Plutonium", //Nukes
         "movementType": "Air",
         "uniques": ["Aircraft"]
     },
     {
-        "name": "Flying Self-destructive Rock",
+        "name": "Flying Self-destructive Rock", //Missile 
         "movementType": "Air",
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
     {
-        "name": "Helicopebble",
+        "name": "Helicopebble", //Yes
         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles"]
     }
