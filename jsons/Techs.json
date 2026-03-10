@@ -10,7 +10,7 @@
 				"name": "Reject da humanity",
 				"row": 30,
 				"quote": "F**k techs.",
-				"uniques": ["Can be continually researched"]
+				"uniques": ["Can be continually researched", "Only available <after adopting [Rocky empire tech tree]>"]
 			}
 		]
 	}
