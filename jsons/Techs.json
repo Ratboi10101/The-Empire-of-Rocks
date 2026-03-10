@@ -2,7 +2,7 @@
 	{
 		"columnNumber": 100,
 		"era": "Rocky future era",
-		"techCost": 20,
+		"techCost": 999999999,
 		"buildingCost": 40,
 		"wonderCost": 185,
 		"techs": [
