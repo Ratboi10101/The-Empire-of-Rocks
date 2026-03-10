@@ -8,7 +8,7 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"uniques": ["Unavailable","Unavailable"]
+		"uniques": ["Unavailable","Unavailable"],
 		"attackSound": "phasers"
 	}
 ]
