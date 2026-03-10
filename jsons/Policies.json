@@ -2,13 +2,13 @@
     {
         "name": "Rock empire tech tree",
         "era": "Ancient era",
-        "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
-        },
+        //"priorities": {
+            //"Neutral": 5,
+            //"Cultural": 5,
+            //"Diplomatic": 5,
+            //"Domination": 5,
+            //"Scientific": 5
+        //},
         "uniques": [
             "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]"
