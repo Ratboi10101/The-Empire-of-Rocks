@@ -5,7 +5,7 @@
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"isWonder": true,
+		"isNationalWonder": true,
 		"uniques" : ["Unbuildable","Adopt [Rock empire tech tree]"]
 	}
 ]
