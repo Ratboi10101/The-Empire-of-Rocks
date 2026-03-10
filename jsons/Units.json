@@ -8,7 +8,6 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
