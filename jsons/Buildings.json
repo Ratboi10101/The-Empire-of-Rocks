@@ -2,10 +2,11 @@
 	{
 		"name": "The Great Monolith",
 		"uniqueTo": "The Rocky Empire",
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"happiness": 15,
+		"culture": 30,
 		"isNationalWonder": true,
-		"uniques" : ["Unbuildable","Adopt [Rock empire tech tree]"]
+		"uniques" : ["Adopt [Rock empire tech tree]"]
 	}
 ]
