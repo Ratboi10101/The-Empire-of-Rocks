@@ -1,0 +1,17 @@
+[
+	{
+		"columnNumber": 100,
+		"era": "Rocky future era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Reject da humanity",
+				"row": 30,
+				"quote": "F**k techs.",
+				"uniques": ["Can be continually researched"]
+			}
+		]
+	}
+]
