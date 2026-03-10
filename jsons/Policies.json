@@ -3,7 +3,7 @@
         "name": "Rock empire tech tree",
         "era": "Rocky future era",
         "uniques": [
-            "[+200 Culture] [in capital]",
+            "[+20 Culture] [in capital]",
             "[-5]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
