@@ -1,16 +1,16 @@
 [
 	{
 		"columnNumber": 100,
-		"era": "Rocky era",
+		"era": "Rocky future era",
 		"techCost": 999,
 		"buildingCost": 40,
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Reject da humanity",
-				"row": 20,
+				"name": "Rejection of Self-destructive technologies",
+				"row": 6,
 				"quote": "F**k techs.",
-				"uniques": ["Can be continually researched", "Only available <after adopting [Rock empire tech tree]>"]
+				"uniques": ["Only available <after adopting [Rock empire tech tree]>"]
 			}
 		]
 	}
