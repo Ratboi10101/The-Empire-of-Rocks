@@ -28,7 +28,8 @@
 
 		"outerColor": [0,128,0],
 		"innerColor": [255,255,255],
-		"unique": ["[+1 Culture] per every [1] [Science]"],
+		"uniqueName": "Power of nature",
+		"unique": ["[+1 Culture] per every [1] [Science]","[+1 Food] per every [2] [Food]"],
 		"cities": ["The Great Mountain","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
