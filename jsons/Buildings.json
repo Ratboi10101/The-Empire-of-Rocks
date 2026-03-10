@@ -5,7 +5,7 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"happiness": 15,
-		"culture": 30,
+		"culture": 5,
 		"isNationalWonder": true,
 		"uniques" : ["Adopt [Rock empire tech tree]","Adopt [Pebble Era]"]
 	}
