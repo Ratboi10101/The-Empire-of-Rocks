@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
+		"unitType": "Throwable Sharp Rock",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
