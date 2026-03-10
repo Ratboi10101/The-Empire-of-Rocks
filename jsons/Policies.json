@@ -3,7 +3,7 @@
         "name": "Rock empire tech tree",
         "era": "Rocky future era",
         "uniques": [
-            "[+10 Culture] [in capital]",
+            "[+200 Culture] [in capital]",
             "[-5]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
@@ -58,9 +58,8 @@
             {
                 "name": "Rock empire tech tree Complete",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free",
-                    "Get the leader title of [Lord [leaderName]]"
+                    "[+150]% growth [in all cities]",
+                    "Get the leader title of [Planet [leaderName]]"
                 ]
             }
         ]
