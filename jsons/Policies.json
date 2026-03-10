@@ -1,65 +1,26 @@
 [
     {
         "name": "Rock empire tech tree",
-        "era": "Rocky future era",
+        "era": "New Rocky era",
         "uniques": [
-            "[+20 Culture] [in capital]",
             "[-5]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
             {
-                "name": "Pebble Era",
+                "name": "Praise the monolith",
                 "uniques": [
+                    "Comment [You made contact with monolith.]",
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "[+1 Food] per [3] population [in all cities]",
+                    "[+1 Science] per [3] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Stone Era",
-                "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
-                ],
-                "requires": ["Pebble Era"],
-                "row": 2,
-                "column": 2
-            },
-            {
-                "name": "Rock Era",
-                "uniques": [
-                    "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>",
-                    "[-100]% weight to this choice for AI decisions"
-                ],
-                "requires": ["Stone Era"],
-                "row": 3,
-                "column": 2
-            },
-            {
-                "name": "Boulder Era",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
-                "requires": ["Rock Era"],
-                "row": 4,
-                "column": 2
-            },
-            {
-                "name": "Mountain Era",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
-                "requires": ["Boulder Era"],
-                "row": 5,
-                "column": 2
-            },
-            {
                 "name": "Rock empire tech tree Complete",
                 "uniques": [
-                    "[+150]% growth [in all cities]",
-                    "Get the leader title of [Planet [leaderName]]"
+                    "[+150]% growth [in all cities]"
                 ]
             }
         ]
