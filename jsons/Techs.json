@@ -1,0 +1,16 @@
+[
+	{
+		"columnNumber": 100,
+		"era": "Rocky future era",
+		"techCost": 200,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Reject everything",
+				"row": 20,
+				"quote": "Rocks supremacy",
+			}
+		]
+	}
+]
