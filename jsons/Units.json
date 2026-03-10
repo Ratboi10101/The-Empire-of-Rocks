@@ -2,6 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Throwable Sharp Rock",
+		"uniqueTo": "The Rocky Empire",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
