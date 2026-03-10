@@ -8,52 +8,52 @@
         ],
         "policies": [
             {
-                "name": "Pebbles",
+                "name": "Pebble Era",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Happiness] per [10] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 1
+                "column": 2
             },
             {
-                "name": "Stones",
+                "name": "Stone Era",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free"
                 ],
-                "requires": ["Pebbles"],
+                "requires": ["Pebble Era"],
                 "row": 2,
-                "column": 1
+                "column": 2
             },
             {
-                "name": "Rocks",
+                "name": "Rock Era",
                 "uniques": [
                     "Units in cities cost no Maintenance",
                     "[+50]% Strength for cities <with a garrison> <when attacking>",
                     "[-100]% weight to this choice for AI decisions"
                 ],
-                "requires": ["Stones"],
+                "requires": ["Stone Era"],
                 "row": 3,
-                "column": 1
+                "column": 2
             },
             {
-                "name": "Boulders",
+                "name": "Boulder Era",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Rocks"],
+                "requires": ["Rock Era"],
                 "row": 4,
-                "column": 1
+                "column": 2
             },
             {
-                "name": "Mountains",
+                "name": "Mountain Era",
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Boulders"],
+                "requires": ["Boulder Era"],
                 "row": 5,
-                "column": 1
+                "column": 2
             },
             {
                 "name": "Rock empire tech tree Complete",
