@@ -6,5 +6,6 @@
 		"culture": 12,
 		"science": 12,
 		"isWonder": true,
+		"uniques" : ["Adopt [Rocky empire tech tree]"]
 	}
 ]
