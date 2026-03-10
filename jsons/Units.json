@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Almighty rock",
 		"unitType": "Throwable Sharp Rock",
 		"uniqueTo": "The Rocky Empire",
 		"movement": 2,
@@ -8,6 +8,7 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
+		"uniques": ["Unavailable","Unavailable"]
 		"attackSound": "phasers"
 	}
 ]
