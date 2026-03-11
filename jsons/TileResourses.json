@@ -1,13 +1,10 @@
 [
   {
-		"name": "Stone",
+		"name": "Pebbles and Rocks",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"terrainsCanBeFoundOn": ["Land"],
 		"production": 1,
-		"improvement": "Quarry",
 		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
-					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
+		"uniques": ["Generated on every [10] tiles <in [{Featureless} {All}] tiles>"]
 	}
 ]
