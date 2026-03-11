@@ -12,10 +12,18 @@
                     "Comment [You made contact with monolith.]",
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Food] per [3] population [in all cities]",
-                    "[+1 Science] per [3] population [in all cities]"
+                    "[+1 Science] per [5] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
+            },
+            {
+                "name": "Pebble era",
+                "uniques": [
+                    "Comment [You have entered the pebble era.]",
+                ],
+                "row": 2,
+                "column": 3
             },
             {
                 "name": "Rock empire tech tree Complete",
