@@ -11,8 +11,8 @@
                 "uniques": [
                     "Comment [You made contact with monolith.]",
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Food] per [3] population [in all cities]",
-                    "[+1 Science] per [5] population [in all cities]"
+                    "[+1 Food] per [5] population [in all cities]",
+                    "[+1 Science] per [10] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -21,8 +21,32 @@
                 "name": "Pebble era",
                 "uniques": [
                     "Comment [You have entered the pebble era.]",
+                    "[+1 Production] per [5] population [in all cities]"]",
                 ],
+        "requires": ["Praise the monolith"],
                 "row": 2,
+                "column": 3
+    },
+    {
+                "name": "Infectious Inteligence",
+                "uniques": [
+                    "Comment [The sentience and inteligence provided by the monolith spread quickly across the land.]",
+                    "[+1 Food] per [5] population [in all cities]",
+                    "[+1 Science] per [7] population [in all cities]"]",
+                ],
+        "requires": ["Pebble era"],
+                "row": 3,
+                "column": 2
+            },
+    {
+                "name": "Stone-made tools",
+                "uniques": [
+                    "Comment [Some sacrificed their own body for technological advancement.]",
+                    "[+1 Food] per [8] population [in all cities]",
+                    "[+1 Production] per [5] population [in all cities]"]",
+                ],
+        "requires": ["Pebble era"],
+                "row": 3,
                 "column": 3
             },
             {
